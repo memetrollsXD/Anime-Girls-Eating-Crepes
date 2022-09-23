@@ -1,14 +1,26 @@
 # Contribution Guidelines
 
-## Format
+## Pull Request
+The PR must include the following information
+- The artist/studio that has drawn the footage
+- The name of the anime girl
+- Sauce. (Anime name)
 
-Image names must be in Pascal_Snake_Case and sorted in the most fitting folder:
+H is welcome as long as there is no nudity in the uploaded picture.
+
+## Format
+We're accepting all types of images! (png/jp(e)g/gif)
+
+Image names must be in Pascal_Snake_Case and must describe what the character is doing:
 
 `{Full_Name}_Eating_{Food}.*`
 
 Example: `Kanna_Kamui_Eating_Crepe.gif` in folder `Crepes/`
 
 ## Common Definitions
+### Anime girl
+A drawn character that are either canonically female or look like a girl. (Traps are welcome!)
+
 ### Pascal Snake Case
 Pascal Snake Case is a naming convention where each word is capitalized and separated by an underscore. For example, `Pascal_Snake_Case`.
 
