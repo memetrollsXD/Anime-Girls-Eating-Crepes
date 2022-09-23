@@ -11,11 +11,11 @@ H is welcome as long as there is no nudity in the uploaded picture.
 ## Format
 We're accepting all types of images! (png/jp(e)g/gif)
 
-Image names must be in Pascal_Snake_Case and must describe what the character is doing:
+Image names must be in Pascal_Snake_Case and must describe what the character is doing. Try to be creative:
 
 `{Full_Name}_Eating_{Food}.*`
 
-Example: `Kanna_Kamui_Eating_Crepe.gif` in folder `Crepes/`
+Example: `Kanna_Kamui_Chomping_On_Crepe.gif` in folder `Crepes/`
 
 ## Common Definitions
 ### Anime girl
