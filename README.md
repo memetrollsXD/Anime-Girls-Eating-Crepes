@@ -4,3 +4,5 @@ A repository about anime girls holding pictures of baked batter inspired by [Ani
 
 # Contributing
 Please see [CONTRIBUTING.md](https://github.com/memetrollsXD/Anime-Girls-Eating-Crepes/blob/main/CONTRIBUTING.md) for contribution guidelines.
+
+WindRat
